@@ -1,6 +1,7 @@
 # hello-world
-saying *hello* to the **github** world 
-this is a github >repository for understanding; 
+saying *hello* to the **github** world.
+---
+This is a github >repository for understanding; 
 - repositories
 - branches
 - commits
